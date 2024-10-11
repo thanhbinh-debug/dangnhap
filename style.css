@@ -1,0 +1,36 @@
+body {
+  background: url(./anhnen/hinhnen2.jpg), no-repeat;
+  margin: 0 auto;
+  background-size: cover;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.warper {
+  text-align: center;
+  border-top: 50px;
+  padding: 70px;
+  margin-top: 50px;
+}
+
+.box {
+  background-color: transparent;
+  margin-top: 5px;
+}
+
+input {
+  background-color: transparent;
+  border: 0.5px solid rgba(255, 255, 255, 0.5); /* Viền mờ trong suốt */
+  outline: none;
+  color: #ffffff9f; /* Màu chữ sáng hơn */
+}
+
+.box4 {
+  max-width: 200px;
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.244);
+}
